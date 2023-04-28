@@ -1,0 +1,12 @@
+{
+    "name": "laravel/debug-logger",
+    "description": "A php debug logger",
+    "autoload": {
+        "psr-4": {
+            "DebugLogger\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
