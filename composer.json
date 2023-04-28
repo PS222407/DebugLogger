@@ -1,5 +1,5 @@
 {
-    "name": "laravel/debug-logger",
+    "name": "laravel-debug/logger",
     "description": "A php debug logger",
     "autoload": {
         "psr-4": {
